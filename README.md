@@ -1,5 +1,7 @@
 # awesome-high-resolution-satellite-open-data
-Open Data initiative by satellite manufacturers
+Open Data initiatives by satellite manufacturers.
+
+If you have other links in mind, make a pull request.
 
 ## SAR
 - [**UMBRA SPACE**](https://umbra.space/open-data/)
