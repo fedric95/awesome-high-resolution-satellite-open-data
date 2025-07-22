@@ -10,4 +10,3 @@ If you have other links in mind, make a pull request.
 ## OPT/HYP
 - [**MAXAR**](https://www.maxar.com/open-data)
 - [**PLANET**](https://www.planet.com/data/stac/browser/?.language=en)
-- [**PLANET Tanager-1**](https://www.planet.com/data/stac/browser/tanager-core-imagery/catalog.json?.language=en)
